@@ -1,0 +1,7 @@
+[intel-gaudi]
+name=Intel Gaudi
+baseurl=https://vault.habana.ai/artifactory/rhel/9/9.4
+enabled=1
+gpgcheck=1
+repo_gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-INTEL-GAUDI
